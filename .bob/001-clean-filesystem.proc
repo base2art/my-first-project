@@ -1,0 +1,8 @@
+{
+  "org": "base2art",
+  "name": "filesystem-delete-entry",
+  "version": "0.0.0.1",
+  "data": {
+    "path": ".deploy"
+  }
+}

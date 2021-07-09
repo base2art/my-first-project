@@ -1,0 +1,12 @@
+{
+  "org": "base2art",
+  "name": "web-package-zip",
+  "version": "0.0.0.1",
+  "data": {
+    "outputFile": "base2art.myfirstapp",
+    "version": ".version",
+    "branchName": ".branch-name",
+    "defaultBranchName": "master",
+    "outputExtension": ".web.zip"
+  }
+}
