@@ -7,6 +7,6 @@
     "version": ".version",
     "branchName": ".branch-name",
     "defaultBranchName": "master",
-    "outputExtension": ".web.zip"
+    "outputExtension": ".zip"
   }
 }
