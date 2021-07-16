@@ -48,7 +48,7 @@
 
                 <tr>
                     <td colspan="2" align="center">
-                        <a href="?" >Click Here</a>
+                        <a href="?" >Listen Hear!</a>
                     </td>
                 </tr>
 
